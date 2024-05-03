@@ -1,0 +1,9 @@
+ElJuegoDeLaOCA/.vsconfig
+*.csproj
+*.suo
+*.sln
+ElJuegoDeLaOCA/Library/
+ElJuegoDeLaOCA/Logs/
+ElJuegoDeLaOCA/Temp/
+ElJuegoDeLaOCA/UserSettings/
+ElJuegoDeLaOCA/obj/
